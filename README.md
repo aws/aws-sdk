@@ -19,7 +19,9 @@ for developing and managing applications on AWS.
 ## AWS SDKs on GitHub
 * [AWS SDK for C++](https://github.com/aws/aws-sdk-cpp)
 * [AWS CLI](https://github.com/aws/aws-cli)
-* [AWS SDK for Go](https://github.com/aws/aws-sdk-go)
+* Go
+  * [AWS SDK for Go V2](https://github.com/aws/aws-sdk-go-v2)
+  * [AWS SDK for Go](https://github.com/aws/aws-sdk-go)
 * Java
   * [AWS SDK for Java, v2](https://github.com/aws/aws-sdk-java-v2)
   * [AWS SDK for Java](https://github.com/aws/aws-sdk-java) (not recommended for new projects)
