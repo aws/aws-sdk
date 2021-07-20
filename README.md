@@ -20,7 +20,7 @@ for developing and managing applications on AWS.
 * [AWS SDK for C++](https://github.com/aws/aws-sdk-cpp)
 * [AWS CLI](https://github.com/aws/aws-cli)
 * Go
-  * [AWS SDK for Go V2](https://github.com/aws/aws-sdk-go-v2)
+  * [AWS SDK for Go v2](https://github.com/aws/aws-sdk-go-v2)
   * [AWS SDK for Go](https://github.com/aws/aws-sdk-go)
 * Java
   * [AWS SDK for Java, v2](https://github.com/aws/aws-sdk-java-v2)
