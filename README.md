@@ -25,7 +25,9 @@ for developing and managing applications on AWS.
 * Java
   * [AWS SDK for Java, v2](https://github.com/aws/aws-sdk-java-v2)
   * [AWS SDK for Java](https://github.com/aws/aws-sdk-java) (not recommended for new projects)
-* [AWS SDK for JavaScript](https://github.com/aws/aws-sdk-js)
+* JavaScript
+  * [AWS SDK for JavaScript v3](https://github.com/aws/aws-sdk-js-v3)
+  * [AWS SDK for JavaScript](https://github.com/aws/aws-sdk-js)
 * [AWS SDK for .NET](https://github.com/aws/dotnet)
 * [AWS SDK for PHP](https://github.com/aws/aws-sdk-php)
 * Python
