@@ -28,3 +28,4 @@ jobs:
         minimum-upvotes-to-exempt: 5
 
         repo-token: ${{ secrets.GITHUB_TOKEN }}
+        loglevel: DEBUG
