@@ -16,9 +16,9 @@ jobs:
         stale-pr-message: This PR has not received a response in a while. If you want to keep this issue open, please leave a comment below and auto-close will be canceled.
 
         stale-issue-label: closing-soon
-        exempt-issue-labels: no-autoclose,feature-request
+        exempt-issue-labels: no-autoclose
         stale-pr-label: closing-soon
-        exempt-pr-labels: no-autoclose,feature-request
+        exempt-pr-labels: no-autoclose
         response-requested-label: response-requested
         closed-for-staleness-label: closed-for-staleness
 
