@@ -11,9 +11,9 @@ jobs:
     steps:
     - uses: aws-actions/stale-issue-cleanup@v6
       with:
-        ancient-issue-message: This issue has not received any attention in 1 year.  If you want to keep this issue open, please leave a comment below and auto-close will be canceled.
-        stale-issue-message: This issue has not received a response in a while. If you want to keep this issue open, please leave a comment below and auto-close will be canceled.
-        stale-pr-message: This PR has not received a response in a while. If you want to keep this issue open, please leave a comment below and auto-close will be canceled.
+        ancient-issue-message: Greetings! It looks like this issue has not been active in longer than one year. We encourage you to check if this is still an issue in the latest release. If you want to keep this issue open, please leave a comment below and auto-close will be canceled.
+        stale-issue-message: Greetings! It looks like this issue has not received a response in longer than four days. If you want to keep this issue open, please leave a comment below and auto-close will be canceled.
+        stale-pr-message: Greetings! It looks like this PR has not received a response in longer than four days. If you want to keep this issue open, please leave a comment below and auto-close will be canceled.
 
         stale-issue-label: closing-soon
         exempt-issue-labels: no-autoclose
