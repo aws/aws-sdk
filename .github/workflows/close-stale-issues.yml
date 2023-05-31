@@ -17,6 +17,7 @@ jobs:
     steps:
     - uses: aws-actions/stale-issue-cleanup@v6
       with:
+        # If a category has no message, it is disabled. Not closing issues as ancient
         stale-issue-message: This issue has not received a response in a while. If you want to keep this issue open, please leave a comment below and auto-close will be canceled.
         stale-pr-message: This PR has not received a response in a while. If you want to keep this issue open, please leave a comment below and auto-close will be canceled.
         
@@ -34,7 +35,6 @@ jobs:
         # Issue timing
         days-before-stale: 5
         days-before-close: 2
-        days-before-ancient: 36500
 
         # If you don't want to mark a issue as being ancient based on a
         # threshold of "upvotes", you can set this here. An "upvote" is
