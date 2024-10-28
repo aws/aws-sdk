@@ -35,6 +35,7 @@ for developing and managing applications on AWS.
   * [AWS SDK for Python, legacy](https://github.com/boto/boto) (not recommended for new projects)
   * [botocore](https://github.com/boto/botocore)
 * [AWS SDK for Ruby](https://github.com/aws/aws-sdk-ruby)
+* [AWS SDK for Rust](https://github.com/awslabs/aws-sdk-rust)
 
 ## Security
 
