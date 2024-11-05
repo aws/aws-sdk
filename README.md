@@ -1,5 +1,7 @@
 ## aws/sdk
 
+> **Note:** This repository has been archived. For the most up-to-date information on AWS SDKs and developer tools, please visit [AWS Developer Tools](https://aws.amazon.com/products/developer-tools/).
+
 Welcome to the AWS SDKs landing page! This page provides
 links and information about the AWS SDKs on GitHub. This repository is also used
 to track feature requests and issues that affect multiple AWS SDKs.
